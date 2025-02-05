@@ -16,4 +16,5 @@ Random_state : Used to always get the same split (If random_state different resu
 ## Credits
 
 This project has been made by following this video : "https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&ab_channel=Siddhardhan" from Siddhardhan channel.
+
 I also used this website to try more model : "https://medium.com/@andrii.gozhulovskyi/choosing-a-model-for-binary-classification-problem-f211f7a4e263"
